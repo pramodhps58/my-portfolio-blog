@@ -1,3 +1,3 @@
-# My Portfolio
+# My Blog
 
-Creating my portfolio website using Django framework
+Creating my Blog using Django framework
